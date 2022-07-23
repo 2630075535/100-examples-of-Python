@@ -17,3 +17,5 @@ lista = [3, 5, 7, 9, 11, 13]
 listb = [7, 9, 11]
 data = [item for item in lista if item not in listb]
 print(f"from{lista} remove {listb}, result:", data)
+
+
