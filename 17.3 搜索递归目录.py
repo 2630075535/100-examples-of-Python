@@ -13,7 +13,3 @@ import os
 search_dir = "C:/Users/26300/PycharmProjects"
 for root, dirs, files in os.walk(search_dir):
     print(root, dirs, files)
-
-
-
-
